@@ -1,0 +1,22 @@
+{
+  "source": "BIS Global Liquidity Indicators — Total credit, all instruments, all sectors",
+  "unit": "USD millions",
+  "frequency": "quarterly",
+  "last_updated": "2026-01-15",
+  "next_update": "2026-04-15",
+  "note": "Mettre à jour manuellement chaque trimestre avec les données BIS (https://www.bis.org/statistics/gli.htm)",
+  "observations": [
+    {"date": "2023-03-31", "gli_level": 42690785.0},
+    {"date": "2023-06-30", "gli_level": 42930329.288},
+    {"date": "2023-09-30", "gli_level": 43125476.325},
+    {"date": "2023-12-31", "gli_level": 43596418.495},
+    {"date": "2024-03-31", "gli_level": 44137892.406},
+    {"date": "2024-06-30", "gli_level": 43783020.438},
+    {"date": "2024-09-30", "gli_level": 45820333.54},
+    {"date": "2024-12-31", "gli_level": 44715568.899},
+    {"date": "2025-03-31", "gli_level": 46296114.184},
+    {"date": "2025-06-30", "gli_level": 49139216.267},
+    {"date": "2025-09-30", "gli_level": 49978634.061},
+    {"date": "2025-12-31", "gli_level": 50849512.846}
+  ]
+}
