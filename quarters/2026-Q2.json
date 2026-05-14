@@ -1,0 +1,19 @@
+{
+  "quarter": "2026-Q2",
+  "date_published": "2026-05-14",
+  "signal": "Expansion",
+  "baa_aaa": 0.56,
+  "gli_yoy": 13.72,
+  "gli_decel": false,
+  "lookback_months": 36,
+  "weights": {
+    "IEF": 0.0833,
+    "TIP": 0.25,
+    "GLD": 0.25,
+    "FXY": 0.0,
+    "FXF": 0.0,
+    "LMT": 0.0,
+    "CVX": 0.1667,
+    "SLV": 0.25
+  }
+}
