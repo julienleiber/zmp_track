@@ -133,4 +133,9 @@ pip install yfinance pandas scipy requests
 
 ---
 
-*Zero Mass Portfolio — Working paper disponible sur demande.*
+---
+
+© 2026 Julien Leiber. Zero Mass Portfolio methodology.  
+Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+Commercial use requires a separate license agreement.  
+Contact: contact@julienleiber.com
