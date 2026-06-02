@@ -1,9 +1,9 @@
 {
-  "date": "2026-05-28",
-  "generated": "2026-05-29T20:19:04.060023+00:00",
+  "date": "2026-05-08",
+  "generated": "2026-06-02T20:44:09.110268+00:00",
   "signal": "Expansion",
-  "baa_aaa": 0.52,
-  "baa_date": "2026-05-28",
+  "baa_aaa": 0.56,
+  "baa_date": "2026-05-08",
   "gli_yoy": 13.7177,
   "gli_decel": false,
   "threshold": 1.3,
